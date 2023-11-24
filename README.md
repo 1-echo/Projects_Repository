@@ -1,5 +1,4 @@
 # Projects_Repository
-
-  - Thesis_Analysis: statistical description and summary graphs for an undergraduate thesis on the evolution of the real estate market.     First approach to data analysis using python.
-  - Web_Scraping V2: extraction of information from the internet with reference to the contact details of companies in a given sector of the economy, seeking to maximize the amount of information possible and avoid overloading the pages.
-  - Air_Traffic_Analysis: US Air Traffic 2022 data analysis, exploratory data analysis and web-based dash app for dynamic graphics.
+  - Thesis Analysis: This undergraduate thesis focuses on providing a statistical description and summary graphs of the evolution of the real estate market. The analysis is conducted using Python as the primary tool for data analysis.
+  - Web Scraping V2: In this project, the aim is to extract information from the internet, specifically contact details of companies within a specific sector of the economy. The goal is to gather as much information as possible while ensuring that the web pages are not overloaded.
+  - Air Traffic Analysis: This project involves analyzing the US Air Traffic data for the year 2022. The analysis includes exploratory data analysis and the development of a web-based dashboard application that provides dynamic graphics for better visualization of the data.
