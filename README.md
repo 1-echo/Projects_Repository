@@ -63,7 +63,7 @@ This project focuses on classifying EEG signals to determine eye state (open or 
 **Description:**  
 This project aims to analyze and visualize video game data sourced from Metacritic. By integrating game ratings, sales figures, and other relevant metrics, it provides insights into the gaming industry's trends and patterns.
 
-## Key Features
+**Key Features**
 
 **Key Features:**
 - Data collection from Metacritic, including ratings, genres, publishers, and platforms.
@@ -71,18 +71,32 @@ This project aims to analyze and visualize video game data sourced from Metacrit
 - Interactive visualizations using Python libraries such as Matplotlib and Seaborn.
 - Comprehensive insights into factors influencing game success across various platforms and genres.
 
-### 6.  Forecasting the Electric Sector in Ecuador: Monthly Evolution by Source Type (2013-2023) [Master's Thesis]
+### 6.  Uncovering Patterns in EDM Music: A Data-Driven Approach
+
+**Description:**  
+This project presents a comprehensive exploratory data analysis (EDA) of 700 electronic dance music (EDM) tracks. It focuses on uncovering structural, acoustic, and temporal patterns using Spotify audio features.
+
+**Key Features**
+
+**Key Features:**
+- Data collection from Spotify, including anceability, energy, loudness, key, valence, tempo, speechiness, instrumentalness, acousticness, liveness, and popularity.
+- Artist Popularity: Calvin Harris, Avicii, and The Chainsmokers dominate top tracks by popularity.
+- Interactive visualizations using Python libraries such as Matplotlib.
+- Clustering: Machine learning methods identified distinct groups of tracks with similar sonic properties.
+
+
+### 7.  Forecasting the Electric Sector in Ecuador: Monthly Evolution by Source Type (2013-2023) [Master's Thesis]
 
 **Description:**  
 This project aims to develop predictive models for Ecuador's electric sector by analyzing monthly electricity generation data from 2013 to 2023, categorized by source type. Utilizing SARIMA and Prophet forecasting models, the study provides high-precision forecasts based on data from the Electricity Regulation and Control Agency. The findings offer valuable insights into sector behavior, informing improvements in energy planning and policy-making.
 
-## Key Features
+**Key Features**
 
 - **Advanced Forecasting Techniques:** Utilizes SARIMA and Prophet models to predict monthly electricity generation by source type, enhancing forecasting accuracy.
 - **Historical Data Analysis:** Analyzed monthly electricity generation data (2013-2023) by source type.​
 - **Performance Evaluation:** Assessed model accuracy using RMSE and MAPE metrics.
 
-## External Repository
+**External Repository**
 - You can access the project's repository at the following link: https://github.com/1-echo/Maestria_UDLA
 
 ---
